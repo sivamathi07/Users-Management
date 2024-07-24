@@ -1,0 +1,14 @@
+.profile-page-container{
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: black;
+    border-radius: 30px;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 150px;
+}
+
+.update-link{
+    color: white;
+    text-decoration: none;
+}

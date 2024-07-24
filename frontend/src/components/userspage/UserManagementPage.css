@@ -1,0 +1,55 @@
+.user-management-container{
+    background-color: rgba(255, 255, 255, 0.9);
+    box-sizing: border-box;
+    color: black;
+    margin-left: 570px;
+    margin-right: 570px;
+    margin-top: 30px;
+}
+
+.user-table{
+  background-color: #f2f2f2;
+  border-collapse: collapse;
+  
+}
+
+.user-table th, .user-table td {
+    border: 1px solid rgb(179, 175, 175);
+    padding: 8px;
+    text-align: center;
+    color: black;
+  }
+  
+  .user-table th {
+    background-color: #007bff;
+    font-weight: bold;
+    color: white;
+  }
+
+  .user-update{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .reg-button{
+    background-color: #6cb20a;
+  }
+
+  .reg-button:hover{
+    background-color: green;
+  }
+
+  .user-add{
+    color: white;
+    text-decoration: none;
+  }
+
+  .delete-button{
+    background-color: red;
+  }
+
+  .delete-button:hover{
+    background-color: rgb(171, 8, 8);
+  }
+
+ 
