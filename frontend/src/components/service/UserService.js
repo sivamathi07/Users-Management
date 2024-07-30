@@ -1,7 +1,7 @@
 import axios from "axios";
 
 class UserService{
-    static BASE_URL = "http://localhost:1010"
+    static BASE_URL = "http://13.235.86.117:8080"
 
     // update employee task
     static async updateEmployeeTask(taskId, taskData, token) {
